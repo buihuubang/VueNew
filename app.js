@@ -5,3 +5,4 @@ var study = new Vue({
     text: "If it weren't for the last minute, nothing would get done."
   }
 });
+
